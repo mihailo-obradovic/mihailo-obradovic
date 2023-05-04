@@ -1,4 +1,8 @@
-### Hi there 👋
+<h3 align="center">Mihailo Obradović | Михаило Обрадовић</h3>
+
+<p align="center">Front-end Developer</p>
+
+<p align="center"><a href="https://codeus.me" target="_blank"><img src="https://codeus.me/img/codeus_logo.png" alt="Codeus" height="28"></a></p>
 
 <!--
 **mihailo-obradovic/mihailo-obradovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
