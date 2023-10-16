@@ -1,8 +1,14 @@
-<h3 align="center">Mihailo Obradović | Михаило Обрадовић</h3>
+<p align="center"><img src="https://i.imgur.com/PrRSBN9.png" alt="Placeholder"></p>
 
-<p align="center">Front-end Developer</p>
+<div align="center" style="display: flex; justify-content: center; font-size: 20px; font-weight: 700; user-select: none;">
+    <div style="color: #4fc8f4;">Mihailo Obradović</div>
+    <div style="color: #3584c5;">&nbsp | &nbsp</div>
+    <div style="color: #4fc8f4;">Михаило Обрадовић</div>
+</div>
 
-<p align="center"><a href="https://codeus.me" target="_blank"><img src="https://codeus.me/img/codeus_logo.png" alt="Codeus" height="28"></a></p>
+<div align="center" style="color: #3584c5; font-size: 16px; padding: 16px; font-weight: 500">Front-end Developer/Team Leader</div>
+
+<p align="center"><a href="https://codeus.me" target="_blank"><img src="https://codeus.me/img/codeus_logo.png" alt="Codeus" height="40"></a></p>
 
 <!--
 **mihailo-obradovic/mihailo-obradovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
