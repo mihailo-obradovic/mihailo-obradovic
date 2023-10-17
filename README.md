@@ -3,6 +3,18 @@
 <p align="center"><a href="https://codeus.me" target="_blank"><img src="https://codeus.me/img/codeus_logo.png" alt="Codeus" height="72"></a></p>
 
 <p align="center">
+  👋 Hi, I'm Mihailo Obradović (Михаило Обрадовић). I'm an enthusiastic front-end engineer with a love for creating elegant and efficient web applications. My journey in web development has allowed me to explore the ever-evolving world of technology and apply my skills to craft captivating user experiences.
+</p>
+
+<p align="center">
+  I specialize in Vue.js and am keen about modern web technologies. I believe in the power of clean and maintainable code to deliver outstanding results. Drawing from the principles of military discipline, I find my strength in collaborative efforts, where a unified focus of diverse talents and commitment to the mission drive us to achieve exceptional results.
+</p>
+
+<p align="center">
+  Feel free to connect with me and explore the work we've done at Codeus. Let's create something amazing together!
+</p>
+
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mihailo-obradovic&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&border_radius=16&title_color=4fc8f4&text_color=3584c5&icon_color=4fc8f4&border_color=ffffff&card_width=600" alt="GitHub Statistics">
 </p>
 
