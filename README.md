@@ -1,6 +1,6 @@
 <p align="center"><img style="border-radius: 16px" src="https://i.imgur.com/PrRSBN9.png" alt="Placeholder"></p>
 
-<p align="center"><a href="https://codeus.me" target="_blank"><img src="https://codeus.me/img/codeus_logo.png" alt="Codeus" height="48"></a></p>
+<p align="center"><a href="https://codeus.me" target="_blank"><img src="https://codeus.me/img/codeus_logo.png" alt="Codeus" height="72"></a></p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mihailo-obradovic&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&border_radius=16&title_color=4fc8f4&text_color=3584c5&icon_color=4fc8f4&border_color=ffffff&card_width=600" alt="GitHub Statistics">
