@@ -34,15 +34,20 @@
   <a href="https://www.autodesk.com/products/autocad/"><img src="https://img.shields.io/badge/Autodesk_AutoCAD-005CFF?style=for-the-badge&logo=autodesk&border_radius=16&logoColor=white" alt="AutoCAD"></a>
 </div>
 
-<!-- Conditional light/dark -->
-<!-- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture> -->
+<h3 align="center">System info:</h3>
+
+<p align="center"><img style="border-radius: 16px" src="https://i.imgur.com/Gz4bCY5.png" alt="Neofetch" width="640"></p>
+
+<h3 align="center">Fun facts & hobbies:</h3>
+<div align="center">
+  ⭐ Favorite activities: 🏋️‍♂️ 📖 🎮
+</div>
+<div align="center">
+  🧠 Personality type: <a href="https://www.16personalities.com/istj-personality">ISTJ</a>
+</div>
+<div align="center">
+  🏁 Motorsport fan (<a href="https://www.fiawec.com/">WEC</a>, <a href="https://www.imsa.com/">IMSA</a>, <a href="https://www.dtm.com/en">DTM</a>)
+</div>
+<div align="center">
+  🤘 Metalhead 🤘
+</div>
