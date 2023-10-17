@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&show_icons=true&theme=tokyonight&border_radius=16&title_color=4fc8f4&text_color=3584c5&icon_color=4fc8f4&border_color=ffffff&card_width=600" alt="Top Languages">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihailo-obradovic&show_icons=true&theme=tokyonight&border_radius=16&title_color=4fc8f4&text_color=3584c5&icon_color=4fc8f4&border_color=ffffff&card_width=600" alt="Top Languages">
 </p>
 
 <p align="center">
