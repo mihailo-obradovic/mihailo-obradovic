@@ -18,20 +18,40 @@
   <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&border_radius=16&logoColor=white" alt="Vue.js"></a>
   <a href="https://nuxt.com/"><img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&border_radius=16&logoColor=white" alt="Nuxt.js"></a>
   <a href="https://vitest.dev/"><img src="https://img.shields.io/badge/Vitest-005CFF?style=for-the-badge&logo=vitest&border_radius=16&logoColor=white" alt="Vitest"></a>
+  <a href="https://vuetifyjs.com/en/" target="_blank"><img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&border_radius=16&logoColor=white" alt="Vuetify"></a>
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&border_radius=16&logoColor=black" alt="React.js"></a>
   <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&border_radius=16&logoColor=black" alt="React Native"></a>
 </div>
 
 <div align="center">
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&border_radius=16&logoColor=black" alt="Linux"></a>
+  <a href="https://www.w3schools.com/Js/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&border_radius=16&logoColor=black" alt="JavaScript"></a>
+  <a href="https://www.w3schools.com/typescript/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&border_radius=16&logoColor=white" alt="TypeScript"></a>
   <a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&border_radius=16&logoColor=white" alt="HTML5"></a>
   <a href="https://www.w3schools.com/Css/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&border_radius=16&logoColor=white" alt="CSS3"></a>
-  <a href="https://www.w3schools.com/Js/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&border_radius=16&logoColor=black" alt="JavaScript"></a>
+</div>
+
+<div align="center">
+  <a href="https://copilot.github.com/"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&border_radius=16&logoColor=white" alt="GitHub Copilot"></a>
+  <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-e5f1ff?style=for-the-badge&logo=openai&border_radius=16&logoColor=black" alt="OpenAI"></a>
+  <a href="https://www.midjourney.com"><img src="https://img.shields.io/badge/Midjourney-060522?style=for-the-badge&logo=sails.js&border_radius=16&logoColor=white" alt="Midjourney"></a>
+</div>
+
+<div align="center">
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&border_radius=16&logoColor=white" alt="VS Code"></a>
+  <a href="https://www.gitkraken.com/"><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&border_radius=16&logoColor=white" alt="GitKraken"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&border_radius=16&logoColor=white" alt="Docker"></a>
+  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&border_radius=16&logoColor=white" alt="Postman"></a>
+</div>
+
+<div align="center">
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&border_radius=16&logoColor=black" alt="Linux"></a>
+  <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&border_radius=16&logoColor=white" alt="Firefox"></a>
+  <a href="https://vivaldi.com/"><img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=vivaldi&border_radius=16&logoColor=white" alt="Vivaldi"></a>
 </div>
   
 <div align="center">
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&border_radius=16&logoColor=white" alt="Adobe Photoshop"></a>
-  <a href="https://www.autodesk.com/products/autocad/"><img src="https://img.shields.io/badge/Autodesk_AutoCAD-005CFF?style=for-the-badge&logo=autodesk&border_radius=16&logoColor=white" alt="AutoCAD"></a>
+  <a href="https://www.autodesk.com/products/autocad/"><img src="https://img.shields.io/badge/AutoCAD-CA3435?style=for-the-badge&logo=autodesk&border_radius=16&logoColor=white" alt="AutoCAD"></a>
 </div>
 
 <h3 align="center">System info:</h3>
