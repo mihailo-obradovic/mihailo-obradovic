@@ -10,6 +10,10 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&show_icons=true&theme=tokyonight&border_radius=16&title_color=4fc8f4&text_color=3584c5&icon_color=4fc8f4&border_color=ffffff&card_width=600" alt="Top Languages">
 </p>
 
+<p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=mihailo-obradovic&theme=tokyonight&column=4&margin-w=4&margin-h=4" alt="Top Languages">
+</p>
+
 <h3 align="center">My articles:</h3>
 <div align="center">• <a href="https://www.amplifyre.com/articles/server-side-filter-and-paginate-autocomplete-select-fields">How to adapt an autocomplete/select field to work with server-side filtering and pagination</a></div>
 
