@@ -51,3 +51,9 @@
 <div align="center">
   🤘 Metalhead 🤘
 </div>
+
+<h3 align="center">Find me on:</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mihailo-obradovic/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&border_radius=16&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.discord.com/users/Aileron256"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&border_radius=16&logoColor=white" alt="Discord"></a>
+</div>
