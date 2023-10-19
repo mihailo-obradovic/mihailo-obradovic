@@ -1,4 +1,4 @@
-<p align="center"><img style="border-radius: 18px" src="https://i.imgur.com/UD8lFRt.gif" alt="Header"></p>
+<p align="center"><img src="https://i.imgur.com/UdBaPev.gif" alt="Header"></p>
 
 <p align="center"><a href="https://codeus.me" target="_blank"><img src="https://codeus.me/img/codeus_logo.png" alt="Codeus" height="72"></a></p>
 
@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mihailo-obradovic&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&border_radius=16&title_color=4fc8f4&text_color=3584c5&icon_color=4fc8f4&border_color=ffffff&card_width=600" alt="GitHub Statistics">
+    <img src="https://github-readme-stats.vercel.app/api?username=mihailo-obradovic&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&border_radius=0&title_color=4fc8f4&text_color=3584c5&icon_color=4fc8f4&border_color=ffffff&card_width=600" alt="GitHub Statistics">
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihailo-obradovic&show_icons=true&theme=tokyonight&border_radius=16&title_color=4fc8f4&text_color=3584c5&icon_color=4fc8f4&border_color=ffffff&card_width=600" alt="Top Languages">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihailo-obradovic&show_icons=true&theme=tokyonight&border_radius=0&title_color=4fc8f4&text_color=3584c5&icon_color=4fc8f4&border_color=ffffff&card_width=600" alt="Top Languages">
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@
 
 <h3 align="center">System info:</h3>
 
-<p align="center"><img style="border-radius: 16px" src="https://i.imgur.com/Gz4bCY5.png" alt="Neofetch" width="640"></p>
+<p align="center"><img src="https://i.imgur.com/Gz4bCY5.png" alt="Neofetch" width="640"></p>
 
 <h3 align="center">Fun facts & hobbies:</h3>
 <div align="center">
