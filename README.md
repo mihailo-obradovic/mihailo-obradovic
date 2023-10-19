@@ -1,4 +1,4 @@
-<p align="center"><img style="border-radius: 16px" src="https://i.imgur.com/PrRSBN9.png" alt="Placeholder"></p>
+<p align="center"><img style="border-radius: 18px" src="https://i.imgur.com/UD8lFRt.gif" alt="Header"></p>
 
 <p align="center"><a href="https://codeus.me" target="_blank"><img src="https://codeus.me/img/codeus_logo.png" alt="Codeus" height="72"></a></p>
 
