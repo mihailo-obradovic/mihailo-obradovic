@@ -26,9 +26,6 @@
    <img src="https://github-profile-trophy.vercel.app/?username=mihailo-obradovic&theme=tokyonight&column=4&margin-w=4&margin-h=4" alt="Top Languages">
 </p>
 
-<h3 align="center">My articles:</h3>
-<div align="center">• <a href="https://www.amplifyre.com/articles/server-side-filter-and-paginate-autocomplete-select-fields">How to adapt an autocomplete/select field to work with server-side filtering and pagination</a></div>
-
 <h3 align="center">Technologies I use:</h3>
 <div align="center">
   <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&border_radius=16&logoColor=white" alt="Vue.js"></a>
