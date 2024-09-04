@@ -67,6 +67,11 @@
   <a href="https://www.autodesk.com/products/autocad/"><img src="https://img.shields.io/badge/AutoCAD-CA3435?style=for-the-badge&logo=autodesk&border_radius=16&logoColor=white" alt="AutoCAD"></a>
 </div>
 
+<h3 align="center">My published articles:</h3>
+<div align="center">
+  <a href="https://dev.to/mihailo/how-to-adapt-an-autocompleteselect-field-to-work-with-server-side-filtering-and-pagination-55hm">How to Adapt an Autocomplete/Select Field to Work with Server-side Filtering and Pagination</a>
+</div>
+
 <h3 align="center">System info:</h3>
 
 <p align="center"><img src="https://i.imgur.com/Gz4bCY5.png" alt="Neofetch" width="640"></p>
