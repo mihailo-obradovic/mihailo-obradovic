@@ -1,6 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/UdBaPev.gif" alt="Header"></p>
-
-<p align="center"><a href="https://codeus.me" target="_blank"><img src="https://codeus.me/img/codeus_logo.png" alt="Codeus" height="72"></a></p>
+<p align="center"><a href="mailto:mihailo.obradovic.95@gmail.com"><img src="https://i.imgur.com/UdBaPev.gif" alt="Email Mihailo"></a></p>
 
 <p align="center">
   👋 Hi, I'm Mihailo Obradović (Михаило Обрадовић). I'm an enthusiastic front-end engineer with a love for creating elegant and efficient web applications. My journey in web development has allowed me to explore the ever-evolving world of technology and apply my skills to craft captivating user experiences.
