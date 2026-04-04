@@ -106,6 +106,16 @@
 | How to Adapt an Autocomplete/Select Field to Work with Server-side Filtering and Pagination | [dev.to](https://dev.to/mihailo/how-to-adapt-an-autocompleteselect-field-to-work-with-server-side-filtering-and-pagination-55hm) · [Codeus](https://codeus.me/blog/autocomplete-backend-filtering) |
 | How to Set Up Your Linux GNOME Environment for Work to Maximize Productivity | [Codeus](https://codeus.me/blog/gnome-setup) |
 
+<h3 align="center">Case studies of some of my projects</h3>
+
+<div align="center">
+  <a href="https://codeus.me/me/work/probackup">ProBackup - SaaS cloud backup platform</a><br />
+  <a href="https://codeus.me/me/work/teragence">Teragence - Telecommunications platform</a><br />
+  <a href="https://codeus.me/me/work/mrsool">Mrsool - On-demand delivery platform</a><br />
+  <a href="https://codeus.me/me/work/aria">Aria - Point of Sale app for retail</a><br />
+  <a href="https://codeus.me/me/work/allegra">Allegra - Point of Sale app for hospitality</a>
+</div>
+
 <h3 align="center">Workstation Setup</h3>
 
 <p align="center"><img src="https://i.imgur.com/QPcEZPe.png" alt="FastFetch" width="1083"></p>
