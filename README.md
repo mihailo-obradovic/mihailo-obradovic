@@ -81,7 +81,7 @@
   ⭐ Favorite activities: 🏋️‍♂️ 📖 🎮
 </div>
 <div align="center">
-  🧠 Personality type: <a href="https://www.16personalities.com/istj-personality">ISTJ</a>
+  🧠 Personality type: <a href="https://www.16personalities.com/profiles/34c0446a1314a">ISTJ</a>
 </div>
 <div align="center">
   🏁 Motorsport fan (<a href="https://www.fiawec.com/">WEC</a>, <a href="https://www.imsa.com/">IMSA</a>, <a href="https://www.dtm.com/en">DTM</a>)
