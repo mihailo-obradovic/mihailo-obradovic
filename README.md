@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/mihailo-obradovic/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/UdBaPev.gif" alt="Mihailo on LinkedIn"></a></p>
 
 <p align="center">
-  👋 Hi, I'm Mihailo Obradović (Михаило Обрадовић). Front-end engineer and tech lead specializing in Vue.js and Nuxt.js, with a track record of shipping production applications across SaaS, telecom, retail, and more. I thrive on team synergy and the genuine enjoyment of building together. Equally comfortable owning things independently.
+  👋 Hi, I'm Mihailo Obradović (Михаило Обрадовић). Front-end engineer and tech lead specializing in Vue.js and Nuxt.js, with a track record of shipping production applications across SaaS, telecom, retail, and more. Deeply curious and always pushing to level up - there's always a better way, a sharper pattern, or a new concept worth understanding. I thrive on team synergy and the genuine enjoyment of building together. Equally comfortable owning things independently.
 </p>
 
 <p align="center">
