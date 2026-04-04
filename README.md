@@ -13,11 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mihailo-obradovic"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mihailo-obradovic&theme=tokyonight" alt="GitHub statistics"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mihailo-obradovic"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihailo-obradovic&theme=tokyonight" alt="Most used languages by commit"></a>
+  <a href="https://github.com/mihailo-obradovic"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihailo-obradovic&theme=gotham" alt="GitHub profile details"></a>
 </p>
 
 <h3 align="center">Technologies I use</h3>
