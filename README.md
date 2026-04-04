@@ -16,6 +16,10 @@
   <a href="https://github.com/mihailo-obradovic"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihailo-obradovic&theme=gotham" alt="GitHub profile details"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/mihailo-obradovic"><img src="https://readme-stats-github.pages.dev/api/top-langs?username=mihailo-obradovic&theme=dark" alt="Top languages"></a>
+</p>
+
 <h3 align="center">Technologies I use</h3>
 
 <h4 align="center">Languages & frameworks</h4>
