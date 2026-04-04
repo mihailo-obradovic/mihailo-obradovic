@@ -72,9 +72,9 @@
   <a href="https://dev.to/mihailo/how-to-adapt-an-autocompleteselect-field-to-work-with-server-side-filtering-and-pagination-55hm">How to Adapt an Autocomplete/Select Field to Work with Server-side Filtering and Pagination</a>
 </div>
 
-<h3 align="center">System info:</h3>
+<h3 align="center">Workstation Setup:</h3>
 
-<p align="center"><img src="https://i.imgur.com/Gz4bCY5.png" alt="Neofetch" width="640"></p>
+<p align="center"><img src="https://i.imgur.com/QPcEZPe.png" alt="FastFetch" width="1083s"></p>
 
 <h3 align="center">Fun facts & hobbies:</h3>
 <div align="center">
