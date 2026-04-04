@@ -1,19 +1,11 @@
 <p align="center"><a href="https://www.linkedin.com/in/mihailo-obradovic/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/UdBaPev.gif" alt="Mihailo on LinkedIn"></a></p>
 
 <p align="center">
-  👋 Hi, I'm Mihailo Obradović (Михаило Обрадовић). I'm an enthusiastic front-end engineer with a love for creating elegant and efficient web applications. My journey in web development has allowed me to explore the ever-evolving world of technology and apply my skills to craft captivating user experiences.
+  👋 Hi, I'm Mihailo Obradović (Михаило Обрадовић). Front-end engineer and tech lead specializing in Vue.js and Nuxt.js, with a track record of shipping production applications across SaaS, telecom, retail, and more. I thrive on team synergy and the genuine enjoyment of building together. Equally comfortable owning things independently.
 </p>
 
 <p align="center">
-  I specialize in Vue.js and am keen about modern web technologies. I believe in the power of clean and maintainable code to deliver outstanding results. Drawing from the principles of military discipline, I find my strength in collaborative efforts, where a unified focus of diverse talents and commitment to the mission drive us to achieve exceptional results.
-</p>
-
-<p align="center">
-  Feel free to connect with me and explore the work we've done at Codeus. Let's create something amazing together!
-</p>
-
-<p align="center">
-  <a href="https://github.com/mihailo-obradovic"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihailo-obradovic&theme=gotham" alt="GitHub profile details"></a>
+  <a href="https://github.com/mihailo-obradovic"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihailo-obradovic&theme=tokyonight" alt="GitHub profile details"></a>
 </p>
 
 <p align="center">
@@ -82,22 +74,7 @@
   <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&border_radius=8" alt="Postman"></a>
   <a href="https://omarchy.org/"><img src="https://img.shields.io/badge/Omarchy-9ECE6A?style=for-the-badge&logo=omarchy&logoColor=101010&border_radius=8" alt="Omarchy"></a>
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=101010&border_radius=8" alt="Linux"></a>
-  <a href="https://www.mozilla.org/firefox/"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white&border_radius=8" alt="Firefox"></a>
-  <a href="https://www.chromium.org/"><img src="https://img.shields.io/badge/Chromium-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&border_radius=8" alt="Chromium"></a>
 </div>
-
-<h4 align="center">Other</h4>
-<div align="center">
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=passport&logoColor=white&border_radius=8" alt="Adobe Photoshop"></a>
-  <a href="https://www.autodesk.com/products/autocad/"><img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autocad&logoColor=white&border_radius=8" alt="AutoCAD"></a>
-</div>
-
-<h3 align="center">My published articles</h3>
-
-| Article | Links |
-| :--- | :--- |
-| How to Adapt an Autocomplete/Select Field to Work with Server-side Filtering and Pagination | [dev.to](https://dev.to/mihailo/how-to-adapt-an-autocompleteselect-field-to-work-with-server-side-filtering-and-pagination-55hm) · [Codeus](https://codeus.me/blog/autocomplete-backend-filtering) |
-| How to Set Up Your Linux GNOME Environment for Work to Maximize Productivity | [Codeus](https://codeus.me/blog/gnome-setup) |
 
 <h3 align="center">Case studies of some of my projects</h3>
 
@@ -108,6 +85,13 @@
   <a href="https://codeus.me/me/work/aria">Aria - Point of Sale app for retail</a><br />
   <a href="https://codeus.me/me/work/allegra">Allegra - Point of Sale app for hospitality</a>
 </div>
+
+<h3 align="center">My published articles</h3>
+
+| Article | Links |
+| :--- | :--- |
+| How to Adapt an Autocomplete/Select Field to Work with Server-side Filtering and Pagination | [dev.to](https://dev.to/mihailo/how-to-adapt-an-autocompleteselect-field-to-work-with-server-side-filtering-and-pagination-55hm) · [Codeus](https://codeus.me/blog/autocomplete-backend-filtering) |
+| How to Set Up Your Linux GNOME Environment for Work to Maximize Productivity | [Codeus](https://codeus.me/blog/gnome-setup) |
 
 <h3 align="center">Workstation Setup</h3>
 
