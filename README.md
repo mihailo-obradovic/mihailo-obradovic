@@ -114,6 +114,13 @@
 <h3 align="center">Find me on</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/mihailo-obradovic/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linksys&logoColor=white&border_radius=8" alt="LinkedIn"></a>
+  <a href="https://app.daily.dev/mihailoobradovic"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white&border_radius=8" alt="daily.dev"></a>
   <a href="https://www.discord.com/users/Aileron256"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&border_radius=8" alt="Discord"></a>
   <a href="mailto:mihailo.obradovic.95@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&border_radius=8" alt="Email"></a>
 </div>
+
+<h3 align="center"><a href="https://dly.to/u8NxnqwLCJj">Join my daily.dev squad</a></h3>
+
+<p align="center">
+  <a href="https://dly.to/u8NxnqwLCJj"><img src="https://api.daily.dev/devcards/v2/SpTUCniZ5FDo5Yx5EX9GI.png?type=wide&r=3ho" width="652" alt="Mihailo Obradović's Dev Card"/></a>
+</p>
