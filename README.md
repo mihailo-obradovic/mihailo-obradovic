@@ -93,6 +93,12 @@
 | How to Adapt an Autocomplete/Select Field to Work with Server-side Filtering and Pagination | [dev.to](https://dev.to/mihailo/how-to-adapt-an-autocompleteselect-field-to-work-with-server-side-filtering-and-pagination-55hm) · [Codeus](https://codeus.me/blog/autocomplete-backend-filtering) |
 | How to Set Up Your Linux GNOME Environment for Work to Maximize Productivity | [Codeus](https://codeus.me/blog/gnome-setup) |
 
+<h3 align="center"><a href="https://dly.to/u8NxnqwLCJj">Join my daily.dev squad</a></h3>
+
+<p align="center">
+  <a href="https://dly.to/u8NxnqwLCJj"><img src="https://api.daily.dev/devcards/v2/SpTUCniZ5FDo5Yx5EX9GI.png?type=wide&r=3ho" width="652" alt="Mihailo Obradović's Dev Card"/></a>
+</p>
+
 <h3 align="center">Workstation Setup</h3>
 
 <p align="center"><img src="https://i.imgur.com/QPcEZPe.png" alt="FastFetch" width="1083"></p>
@@ -118,9 +124,3 @@
   <a href="https://www.discord.com/users/Aileron256"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&border_radius=8" alt="Discord"></a>
   <a href="mailto:mihailo.obradovic.95@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&border_radius=8" alt="Email"></a>
 </div>
-
-<h3 align="center"><a href="https://dly.to/u8NxnqwLCJj">Join my daily.dev squad</a></h3>
-
-<p align="center">
-  <a href="https://dly.to/u8NxnqwLCJj"><img src="https://api.daily.dev/devcards/v2/SpTUCniZ5FDo5Yx5EX9GI.png?type=wide&r=3ho" width="652" alt="Mihailo Obradović's Dev Card"/></a>
-</p>
