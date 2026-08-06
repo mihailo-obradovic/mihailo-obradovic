@@ -10,8 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mihailo-obradovic"><img src="https://streak-stats.demolab.com/?user=mihailo-obradovic&theme=tokyonight&hide_border=true" height="200" alt="GitHub streak stats"></a>
-  <a href="https://github.com/mihailo-obradovic"><img src="https://gh-readme-stats.vercel.app/api/top-langs?username=mihailo-obradovic&layout=compact&langs_count=6&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE&icon_color=BF91F3&border_radius=4.5&hide_border=true" height="200" alt="Top languages"></a>
+  <a href="https://github.com/mihailo-obradovic"><img src="https://streak-stats.demolab.com/?user=mihailo-obradovic&theme=tokyonight&hide_border=true" width="495" alt="GitHub streak stats"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mihailo-obradovic"><img src="https://gh-readme-stats.vercel.app/api/top-langs?username=mihailo-obradovic&layout=compact&langs_count=6&card_width=495&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE&icon_color=BF91F3&border_radius=4.5&hide_border=true" width="495" alt="Top languages"></a>
 </p>
 
 <h3 align="center">Technologies I use</h3>
