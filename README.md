@@ -1,6 +1,6 @@
 <!-- <p align="center"><a href="https://www.linkedin.com/in/mihailo-obradovic/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/UdBaPev.gif" alt="Mihailo on LinkedIn"></a></p> -->
 <p align="center">
-  <a href="https://daily.dev/mihailoobradovic"><img src="https://api.daily.dev/devcards/v2/SpTUCniZ5FDo5Yx5EX9GI.png?type=wide&r=bk4" width="652" alt="Mihailo Obradović's Dev Card"/></a>
+  <a href="https://daily.dev/mihailoobradovic"><img src="https://api.daily.dev/devcards/v2/SpTUCniZ5FDo5Yx5EX9GI.png?type=wide&r=w1v" width="652" alt="Mihailo Obradović's Dev Card"/></a>
 </p>
 
 <h3 align="center"><a href="https://dly.to/u8NxnqwLCJj">Join my daily.dev squad</a></h3>
